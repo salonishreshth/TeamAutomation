@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49928" started-at="2022-10-28T19:51:41Z" finished-at="2022-10-28T19:52:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49928" started-at="2022-10-28T19:51:41Z" finished-at="2022-10-28T19:52:31Z">
+      <class name="com.qa.testCases.DemoTestCases">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.qa.testCases.DemoTestCases@5c5a1b69]" name="setup" is-config="true" duration-ms="26998" started-at="2022-10-28T15:51:41Z" finished-at="2022-10-28T15:52:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.qa.testCases.DemoTestCases@5c5a1b69]" name="TestMethod" duration-ms="4594" started-at="2022-10-28T15:52:08Z" finished-at="2022-10-28T15:52:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.qa.testCases.DemoTestCases@5c5a1b69]" name="testMethod1" duration-ms="11890" started-at="2022-10-28T15:52:13Z" finished-at="2022-10-28T15:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.testCases.DemoTestCases@5c5a1b69]" name="closeBrowser" is-config="true" duration-ms="6388" started-at="2022-10-28T15:52:25Z" finished-at="2022-10-28T15:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.testCases.DemoTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
